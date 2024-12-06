@@ -1,5 +1,10 @@
 {
   "games": {
+    "GENSHIN": {
+      "name": "Genshin",
+      "timezone": "Utc/GMT+1",
+      "dayReset": "04:00"
+    },
     "ARKNIGHTS": {
       "name": "Arknights",
       "timezone": "Etc/GMT+7",
